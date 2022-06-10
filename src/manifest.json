@@ -1,16 +1,17 @@
 {
+  "id": "saturn-zendesk-app",
   "name": "saturn-zendesk-app",
   "author": {
     "name": "Alan",
-    "email": "alan@joinsaturn.com",
-    "url": "https://www.zendesk.com"
+    "email": "alan@joinsaturn.com"
   },
   "defaultLocale": "en",
   "private": true,
+  "singleInstall": true,
   "location": {
     "support": {
       "ticket_sidebar": {
-        "url": "assets/iframe.html",
+        "url": "https://dashboard-prod.saturn.engineering/",
         "flexible": true
       }
     }

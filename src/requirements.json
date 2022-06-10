@@ -1,0 +1,7 @@
+{
+    "channel_integrations": {
+        "saturn_chat_channel": {
+            "manifest_url": "https://1b3f-70-18-47-228.ngrok.io/v2/zendesk/manifest"
+        }
+    }
+}
